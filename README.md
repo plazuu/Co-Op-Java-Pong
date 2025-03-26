@@ -11,9 +11,10 @@ Have a fun Co-Op Pong experience
 
 ## Controls/Gameplay
 
-Player 1: S and W keys to move up and down
+Player 1: S and W keys to move up and down                     
 Player 2: Up Arrow and Down Arrow to move up and down
-First to 3 points wins
+
+First to 3 points wins!
 
 ## Background
 
