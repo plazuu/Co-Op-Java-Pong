@@ -15,5 +15,6 @@ Player 1: S and W keys to move up and down
 Player 2: Up Arrow and Down Arrow to move up and down
 First to 3 points wins
 
-Background
+## Background
+
 Made as a little side project using Java Swing and other built-in Java libraries, mostly to practice some coding strategies I have been reading about, such as lambdas and other aspects of the language I wouldn't normally use.
